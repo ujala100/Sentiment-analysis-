@@ -228,35 +228,6 @@ Sentiment: Negative 😞
 
 ---
 
-## 📁 Project Structure
-
-```text
-twitter-sentiment-analysis/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── sentiment_analysis.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train.py
-│   └── predict.py
-│
-├── models/
-│   └── sentiment_model.pkl
-│
-├── images/
-│   ├── sentiment_distribution.png
-│   └── confusion_matrix.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
 
 ## ⚙️ Installation
 
